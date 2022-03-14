@@ -14,5 +14,5 @@
 
 ![Himanshu Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=capital00h&show_icons=true&theme=midnight-purple)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcapital00h&count_bg=%23C83D3D&title_bg=%23555555&icon=hypothesis.svg&icon_color=%238700FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com))
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcapital00h&count_bg=%23C83D3D&title_bg=%23555555&icon=hypothesis.svg&icon_color=%238700FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
